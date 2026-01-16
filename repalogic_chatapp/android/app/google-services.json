@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897996288840",
+    "project_id": "repalogic-chat-app",
+    "storage_bucket": "repalogic-chat-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897996288840:android:05af6e5b20e23dc6f5f97d",
+        "android_client_info": {
+          "package_name": "com.repalogic.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsyWcgohiVZCXmVFAslQ7FBn0R_Qff1Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+{
+  "chat_rooms": "Chat Rooms",
+  "connect_and_chat": "Connect and chat in real time",
+  "new_room": "New Room",
+  "no_rooms": "No chat rooms yet",
+  "create_room": "Create Chat Room",
+  "room_name": "Room Name",
+  "create": "Create",
+  "participants": "{count} participants",
+  "type_message": "Type a message",
+  "invite_users": "Invite Users",
+  "all_users_added": "All users are already in this chat room",
+  "createroom_start_chatting": "Create a room and start chatting"
+
+}
