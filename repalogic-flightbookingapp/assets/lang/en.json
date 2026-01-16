@@ -1,0 +1,16 @@
+{
+  "search_flight_text": "Search Flights",
+  "find_your_flight_text": "Find Your Flight",
+  "search_compare_text": "Search and compare available flights",
+  "origin_text": "Origin",
+  "destination_text": "Destination",
+  "departure_date_text": "Departure Date",
+  "departure_date_required_text": "Departure date is required",
+  "origin_required_text": "Please enter valid origin",
+  "destination_required_text": "please enter valid destination",
+  "book_text": "Book",
+  "available_flights_text": "Available Flights",
+  "no_flights_text": "No flights found"
+
+
+}
